@@ -1,4 +1,5 @@
 //오답
+//완전탐색 반복문 접근
 package p2531_회전초밥;
 
 import java.io.BufferedReader;
